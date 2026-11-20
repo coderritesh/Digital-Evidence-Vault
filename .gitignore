@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+evidence_vault/
+reports/
+sample_image/
+sample_images/
+forensics.db
